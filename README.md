@@ -1,6 +1,8 @@
 # ngrok
 cd ~
+
 cd ngrok
+
 sh install.sh
 
 Perhatian!!!
