@@ -1,2 +1,2 @@
 # ngrok
-Aktifkan hotspot sebelum memakai tools
+Aktifkan hotspot sebelum memakai tools ngrok
